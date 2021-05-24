@@ -1,2 +1,2 @@
-# OffNotesLabTask-Sanket_J_Shah
+# Embedded text detection in video
  
